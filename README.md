@@ -17,7 +17,7 @@ https://releases.ubuntu.com/20.04/   https://releases.ubuntu-mate.org/20.04/amd
 3- This to change Keyboard Layout ( it is better to not change it , let it stay english as default). then click continue:
 ![3](https://github.com/user-attachments/assets/8db68934-500d-430b-8e5d-e7ec987b8a1b)
 
-4- Keep every things as default and press continue:
+4- It is recommended to keep the default keyboard layout (English). Click 'Continue':
 ![4](https://github.com/user-attachments/assets/27229258-2d38-4c5e-9f7f-69664260eb84)
 
 5- Select 'Erase disk and install Ubuntu' (don't be afraid nothing will Erased) Then click 'inatall Now':
@@ -26,13 +26,12 @@ https://releases.ubuntu.com/20.04/   https://releases.ubuntu-mate.org/20.04/amd
 6- Then clich continue and choose your timezone:
 ![7](https://github.com/user-attachments/assets/6aa08f62-5cd5-47af-9181-5e96028afc64)
 
-7- Then Enter your Information (You have to remember the password, it is important), then press continue and it will start installing (it will take a time):
+7- Enter your Information (remember the password, it is important), then press continue and it will start installing (it will take a time):
 ![8](https://github.com/user-attachments/assets/4386e0f9-b41b-4712-86dd-2263efcb5686)
 
 
 ![9](https://github.com/user-attachments/assets/c46b0635-4a40-4736-9011-bbf12a7a1f13)
 8- Then after installing, press 'Restart Now':
-
 
 
 # Step3: ROS2 installation
