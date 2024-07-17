@@ -1,15 +1,15 @@
 # Install-ROS-noetic-
 
-Step 1: installing Ubuntu 22.04 on VMWare:
+# Step 1: installing Ubuntu 22.04 on VMWare:
 
 ![first](https://github.com/user-attachments/assets/efbf8329-6a33-4dc2-9f29-11aeff3f7f48)
 
 here is the summery for downlodaing
 
-step 2 : download Ubuntu 20.04 desktop image Download Ubuntu 20.04 or Ubuntu mate 20.04 
+# step 2 : download Ubuntu 20.04 desktop image Download Ubuntu 20.04 or Ubuntu mate 20.04 
 https://releases.ubuntu.com/20.04/   https://releases.ubuntu-mate.org/20.04/amd
 
-Step 3: Ubuntu 22.04 Setup
+# Step 3: Ubuntu 22.04 Setup
 1- Run the virtual machine by click on 'Play virtual Machine'
 2- Select the language 'English' then press 'install ubuntu':
 ![2](https://github.com/user-attachments/assets/fb47eb91-5f50-48b2-89c6-9998ae5241f5)
@@ -35,7 +35,7 @@ Step 3: Ubuntu 22.04 Setup
 
 
 
-Step3: ROS2 installation
+# Step3: ROS2 installation
 follow the instractions here (copy and paste), and make sure to choose Desktop Install:
 https://docs.ros.org/en/humble/Installation.html
 
