@@ -31,6 +31,7 @@ https://releases.ubuntu.com/20.04/   https://releases.ubuntu-mate.org/20.04/amd
 
 
 ![9](https://github.com/user-attachments/assets/c46b0635-4a40-4736-9011-bbf12a7a1f13)
+
 8- Then after installing, press 'Restart Now':
 
 
