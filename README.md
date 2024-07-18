@@ -6,7 +6,7 @@
 
 here is the summery for downlodaing
 
-# step 2 : download Ubuntu 20.04 desktop image Download Ubuntu 20.04 or Ubuntu mate 20.04 
+# step 2 : Download Ubuntu 20.04 desktop image or Ubuntu mate 20.04 
 https://releases.ubuntu.com/20.04/   https://releases.ubuntu-mate.org/20.04/amd
 
 # Step 3: Ubuntu 22.04 Setup
