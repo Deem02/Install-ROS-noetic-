@@ -36,9 +36,9 @@ https://releases.ubuntu.com/20.04/   https://releases.ubuntu-mate.org/20.04/amd
 8- Then after installing, press 'Restart Now':
 
 
-# Step3: ROS2 installation
-follow the instractions here (copy and paste), and make sure to choose Desktop Install:
-https://docs.ros.org/en/humble/Installation.html
+# Step3: Install ROS noetic 
+follow this instractions here (copy and paste):
+[https://wiki.ros.org/ROS/Installation]
 
 Here to make sure your instlation is correct
 ![image](https://github.com/user-attachments/assets/dbd8c1f0-c62b-4107-b021-efe833c73240)
